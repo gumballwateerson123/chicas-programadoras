@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h1{
+    color: rgb(238, 255, 0);
+}
+li{
+    color: yellow;
+}
+option{
+    color: yellow;
+}
+button{
+    background-color: rgb(221, 237, 100);
+}
+input{
+    background-color: rgb(237, 235, 100);
+}
